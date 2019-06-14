@@ -398,5 +398,6 @@
                 "code": 94,
                 "name": "人才交流中心"
             }
-        ]
+        ],
+            "FUNDE_BUG_API_KEY": "39ed77bbd931ddb00cd96254d9032e1537124ece8daf4d29c63ebd32c49f491b"
 }
